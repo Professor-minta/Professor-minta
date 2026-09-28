@@ -1,40 +1,36 @@
-# Hi Aw bè ɲi ŋia ĞUma> I'm Issa Minta (Professor Minta) 👋
+### 🧠 Core Architectural Roadmap
 
-### 🚀 Full-Stack AI Engineer & Digital Innovator
-I am an *autodidacte* developer based in Mali, dedicated to building impactful digital solutions and expanding language technology across West Africa. I operate **Minta Services** and build AI tools centered on local accessibility and real-world deployment.
+#### 🎙️ Voice-First Device Control (The Siri/Bixby Engine)
+- **Deep OS Intent Mapping:** Structuring background service hooks so users can execute tasks (dial numbers, drop text messages, open system apps) directly with voice inputs in their native tongue.
+- **On-Device Keyword Spotting:** Building lightweight wake-word algorithms optimized for lower-bandwidth, offline, or entry-level mobile devices to limit battery drain.
+- **Vocal Intent Parsing:** Mapping unstructured spoken dialect phrases directly into precise software API calls and automation instructions.
 
----
+#### 🌍 Multilingual Scaling & International Integration
+- **Dynamic Tri-Language Core:** Optimizing real-time text-to-speech (TTS) and speech-to-text (STT) operations across **Bambara**, **French**, and **English**.
+- **Global Horizon Expansion:** Designing a modular input architecture ready to integrate a **fourth major international language (such as Arabic)** alongside existing dialects.
+- **Accent & Phrase Curations:** Working with community inputs, local teachers, and audio datasets to natively handle regional West African accents and bilingual code-switching.
 
-### 🧰 Tech Stack & Skills
-- **AI / NLP & Speech**: Voice Assistant Development, Speech-to-Text (STT) & Text-to-Speech (TTS), Ollama Local LLMs, Language Processing
-- **Full-Stack Web**: JavaScript, Node.js, React, Next.js, REST APIs
-- **Infrastructure & Cloud**: DigitalOcean Droplets, Proxy & Server Management (3x-ui, Xray), Domain & Web Hosting Management
-- **Mobile & Media**: App Integration, Video Production & Digital Solutions
-
----
-
-### 📌 Featured Projects
-
-#### 🤖 [Mande-IA](https://github.com/Professor-minta/mande-ia)
-An early-stage, Bambara-first AI assistant built by **Minta Services** to make digital assistance accessible in local West African languages.
-- **Key Features**: Bambara & French conversational interface, Djelia text-to-speech integration, beta speech recognition, and starter multilingual phrase datasets.
-- **Goal**: Co-creating language technology *with* local communities, teachers, linguists, and developers.
-- 🔗 **Live Demo**: [ia.mintaservices.com](https://ia.mintaservices.com)
+#### ⚙️ Cloud & Enterprise Solutions (Minta Services)
+- **High-Performance Edge VPS Nodes:** Launching server locations optimized for fast local video rendering, secure connection panels (3X-UI / Xray), and rapid voice-data streaming.
+- **Cross-Platform Communication Gateways:** Building stable automated integrations targeting widespread communication tools, starting with browser web modules and custom WhatsApp automation loops.
+- **Data & Digital Sovereignty:** Scaling local infrastructures to keep secure, private database structures safe for regional institutions, students, and businesses.
 
 ---
 
-### 🌐 Organization & Services
-Through **Minta Services**, I offer end-to-end digital services including software development, cloud infrastructure management, and specialized AI solutions tailored for African technology landscapes.
+## 🧰 Tech Stack & Skills
 
-- 🌐 **Website**: [mintaservices.com](https://www.mintaservices.com)
-- 📍 **Location**: Ségou / Bamako, Mali
-
----
-
-### 📬 Connect With Me
-- ✉️ **Email**:Professorminta@gmail.com) | [mintaservicesegou@gmail.com)
-- 💬 **WhatsApp**: (https://wa.me/22377295259)
-- 🚀 **Live AI Portal**: [ia.mintaservices.com](https://ia.mintaservices.com)
+- **AI, NLP & Speech:** Custom Voice Assistants, Speech-to-Text (STT) & Text-to-Speech (TTS), Local Offline LLMs (Ollama, Open WebUI), Multi-Language Datasets.
+- **Full-Stack Development:** JavaScript, Node.js, React, Next.js, Python, REST APIs.
+- **Infrastructure & Cloud Linux:** DigitalOcean Droplets, aaPanel Dashboard Management, Network Proxies (3x-ui, Xray execution), Domain Registrars.
+- **Mobile & Training Delivery:** Progressive Web Apps (PWAs), Web Layouts (WordPress/Elementor), Practical ICT & Technical Course Frameworks (Minta Academy).
 
 ---
-*Building community-first technology and language models for Africa.*
+
+## 📌 Featured Projects
+
+### 🤖 [Mande-IA](https://mintaservices.com)
+An early-stage, Bambara-first AI assistant making modern language tools accessible across local West African spaces.
+- **Key Features:** Bambara & French chat interfaces, deep Djelia speech integrations, and mobile responsive optimization.
+- **Goal:** Forging sovereign, high-efficiency language tools *with and for* regional developer ecosystems.
+
+*Building independent, community-first, voice-powered technology for the African digital future.*
