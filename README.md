@@ -49,9 +49,9 @@ Building independent, community-first, voice-powered technology for the African 
 
 -----version français
 
-I ni ce ! Je suis le **Professeur Issa Minta**, Ingénieur IA Full-Stack & Architecte Principal de Mande-IA.
+I ni ce ! suis Professeur Issa Minta, Ingénieur IA Full-Stack & Architecte Principal de Mande-IA.
 
-Je suis un développeur autodidacte basé au Mali, dédié à la création de solutions numériques à fort impact et à l'expansion des technologies linguistiques en Afrique de l'Ouest. Je dirige **Minta Services African Technology Solutions** et je conçois des outils d'IA intelligents axés sur le déploiement local et l'accessibilité.
+Je suis un développeur autodidacte basé au Mali, dédié à la création de solutions numériques à fort impact et à l'expansion des technologies linguistiques en Afrique de l'Ouest. Je dirige **Minta Services African Technology Solutions et je conçois des outils d'IA intelligents axés sur le déploiement local et l'accessibilité.
 
 Sites web : [mintaservices.com](https://mintaservices.com) | [ia.mintaservices.com](https://ia.mintaservices.com)  
 Localisation : Ségou / Bamako, Mali  
