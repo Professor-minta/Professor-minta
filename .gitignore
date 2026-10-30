@@ -1,0 +1,43 @@
+# ── Dépendances Node.js ──
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Variables d'environnement (JAMAIS sur GitHub !) ──
+.env
+.env.local
+.env.production
+.env*.local
+
+# ── Clés API et secrets ──
+*.key
+*.pem
+secrets/
+config/secrets.json
+
+# ── Logs serveur ──
+logs/
+*.log
+pids/
+*.pid
+
+# ── Système d'exploitation ──
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── Éditeurs de code ──
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Builds et dist ──
+dist/
+build/
+.cache/
+
+# ── aaPanel spécifique ──
+.user.ini
+.htaccess
