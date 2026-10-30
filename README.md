@@ -1,16 +1,46 @@
-## Hi there 👋
+<!-- Professor-minta/Professor-minta README — GitHub Profile -->
 
-<!--
-**Professor-minta/Professor-minta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Issa Minta — Professeur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ingénieur Full-Stack IA autodidacte du Mali 🇲🇱**
+
+*Créateur de **Mande-IA** · Fondateur de **Minta Services** & **Minta Academy***
+
+[![Site](https://img.shields.io/badge/🌐_mintaservices.com-009a44?style=for-the-badge)](https://mintaservices.com)
+[![Mande-IA](https://img.shields.io/badge/🤖_Mande--IA-2dd4bf?style=for-the-badge&labelColor=0d1117)](https://ia.mintaservices.com)
+[![Academy](https://img.shields.io/badge/🎓_Academy-e3b341?style=for-the-badge&labelColor=0d1117)](https://mintaservices.com/academy.html)
+[![Entrepreneuriat](https://img.shields.io/badge/🚀_Entrepreneuriat-f97316?style=for-the-badge&labelColor=0d1117)](https://mintaservices.com/entrepreneurship.html)
+
+---
+
+### 🔥 Ce que je construis
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| 🤖 **[Mande-IA](https://ia.mintaservices.com)** | IA trilingue Bambara · Français · Anglais | Node.js · OpenAI · SSE |
+| 🎓 **[Minta Academy](https://mintaservices.com/academy.html)** | 10 modules · Cloud, VPS, IA locale | Markdown · HTML · Nginx |
+| 🚀 **[Entrepreneuriat](https://mintaservices.com/entrepreneurship.html)** | Accompagnement jeunes entrepreneurs Mali | Community · WhatsApp |
+| 📊 **[Data Collections](https://data.mintaservices.com)** | Datasets africains · Analyse · Dashboards | JSON · API · Analytics |
+
+---
+
+### 🛠️ Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+
+---
+
+### 📬 Me contacter
+
+📧 contact@mintaservices.com &nbsp;|&nbsp; 📱 +223 77 29 52 59 &nbsp;|&nbsp; 📍 Missira, Ségou, Mali 🇲🇱
+
+*Inspirer · Innover · Autonomiser la Jeunesse Malienne*
+
+</div>
