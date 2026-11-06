@@ -1,4 +1,4 @@
-<!-- Professor-minta/Professor-minta README — GitHub Profile -->
+<Profil GitHub du Professeur Issa Minta — Mande-IA, Minta Services et Minta Academy. Créé au Mali.!-- Professor-minta/Professor-minta README — GitHub Profile -->
 
 <div align="center">
 
